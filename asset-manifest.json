@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/pi-demo-ui-1/static/css/main.fc6648a7.chunk.css",
-    "main.js": "/pi-demo-ui-1/static/js/main.37dc5461.chunk.js",
-    "main.js.map": "/pi-demo-ui-1/static/js/main.37dc5461.chunk.js.map",
+    "main.js": "/pi-demo-ui-1/static/js/main.21b3a9bb.chunk.js",
+    "main.js.map": "/pi-demo-ui-1/static/js/main.21b3a9bb.chunk.js.map",
     "runtime-main.js": "/pi-demo-ui-1/static/js/runtime-main.309f9a3a.js",
     "runtime-main.js.map": "/pi-demo-ui-1/static/js/runtime-main.309f9a3a.js.map",
-    "static/js/2.67d90980.chunk.js": "/pi-demo-ui-1/static/js/2.67d90980.chunk.js",
-    "static/js/2.67d90980.chunk.js.map": "/pi-demo-ui-1/static/js/2.67d90980.chunk.js.map",
+    "static/js/2.650e553d.chunk.js": "/pi-demo-ui-1/static/js/2.650e553d.chunk.js",
+    "static/js/2.650e553d.chunk.js.map": "/pi-demo-ui-1/static/js/2.650e553d.chunk.js.map",
     "index.html": "/pi-demo-ui-1/index.html",
     "static/css/main.fc6648a7.chunk.css.map": "/pi-demo-ui-1/static/css/main.fc6648a7.chunk.css.map",
-    "static/js/2.67d90980.chunk.js.LICENSE.txt": "/pi-demo-ui-1/static/js/2.67d90980.chunk.js.LICENSE.txt"
+    "static/js/2.650e553d.chunk.js.LICENSE.txt": "/pi-demo-ui-1/static/js/2.650e553d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.309f9a3a.js",
-    "static/js/2.67d90980.chunk.js",
+    "static/js/2.650e553d.chunk.js",
     "static/css/main.fc6648a7.chunk.css",
-    "static/js/main.37dc5461.chunk.js"
+    "static/js/main.21b3a9bb.chunk.js"
   ]
 }
